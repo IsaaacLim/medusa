@@ -8,7 +8,10 @@
   "users": [
     {
       "email": "admin@medusa-test.com",
-      "password": "supersecret"
+      "password": "supersecret",
+      "permissions": [
+        "admin"
+      ] 
     }
   ],
   "regions": [
